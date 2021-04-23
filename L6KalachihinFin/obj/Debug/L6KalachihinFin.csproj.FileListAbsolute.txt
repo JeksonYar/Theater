@@ -1,0 +1,14 @@
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\bin\Debug\L6KalachihinFin.exe.config
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\bin\Debug\L6KalachihinFin.exe
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\bin\Debug\L6KalachihinFin.pdb
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.csprojAssemblyReference.cache
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Form1.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Form2.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Form3.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Form4.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Form5.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.Properties.Resources.resources
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.csproj.GenerateResource.cache
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.csproj.CoreCompileInputs.cache
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.exe
+C:\Users\vek24\source\repos\L6KalachihinFin\L6KalachihinFin\obj\Debug\L6KalachihinFin.pdb
